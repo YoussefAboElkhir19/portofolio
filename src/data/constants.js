@@ -8,7 +8,7 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/account",
+  github: "https://github.com/YoussefAboElkhir19",
   resume: "youssef Essam.pdf",
   linkedin:
     "https://www.linkedin.com/in/youssef-aboelkhir-440b5025a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEkCoGbesTxSNou%2B4g2Zi%2BA%3D%3D",
